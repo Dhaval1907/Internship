@@ -8,7 +8,11 @@
   
 ## 4 Feb 22
 - Start learning about "Qt 5".
-- Complete Task sidebar add in mainwindow.
+- Complete Task sidebar add in mainwindow using python intractor.
 - Start learning about Qt5 core with c++(Cpp) in Udemy.
 
 ## 7 Feb 22
+- Sidebar added task complete using python code.
+- Adding some tool in sidebar file, segementation and setting.
+  
+## 8 feb 22
