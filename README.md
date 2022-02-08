@@ -13,6 +13,11 @@
 
 ## 7 Feb 22
 - Sidebar added task complete using python code.
-- Adding some tool in sidebar file, segementation and setting.
+- Adding some Png file in sidebar file, segementation and setting.
   
 ## 8 feb 22
+-Adding some svg file like file, segmentation and settting in sidebar.
+-sidebar movebal changes left or right.
+-sidebar change icon size.
+-sidebar click icon checkable.
+-sidebar set floatable.
