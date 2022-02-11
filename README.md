@@ -14,9 +14,23 @@
 ## 7 Feb 22
 - Sidebar added task complete using python code.
 - Adding some Png file in sidebar file, segementation and setting.
-## 8 feb 22
+  
+## 8 Feb 22
 - Adding some svg file like file, segmentation and settting in sidebar.
 - sidebar movebal changes left or right.
 - sidebar change icon size.
 - sidebar click icon checkable.
 - sidebar set floatable.
+  
+## 9 Feb 22
+- Completed task to learn push and pull request in GitHub.
+- How GitHub Action is useful for our future project work.
+- Learn how to make GitHub Action.
+
+## 10 Feb 22
+- Working On Fit 3D object to center of 3D view
+- Working On segmenter Templete home.py file.
+
+## 11 Feb 22
+- Completed Task to Change layout of 4 views.
+- Dev-47 task to solve nd Push.
