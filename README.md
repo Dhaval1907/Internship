@@ -34,3 +34,27 @@
 ## 11 Feb 22
 - Completed Task to Change layout of 4 views.
 - Dev-47 task to solve nd Push.
+
+# 14 Feb 22
+- Watched some qt5 useful videos for task.
+
+# 15 Feb 22
+- Qt5 Videos signals and slot need help to resetFocal task.
+- 3D view in Center Task completed.
+
+# 16 Feb 22
+- learn about qt5 python.
+- Take task to Off Surface smoothing.
+-
+# 17 Feb 22
+- learn form some surface smoothing default action.
+- completed Task to off surface smoothing.
+# 18 Feb 22
+- Take a new Task for globally set Undo or Redo.
+- watch some functionality for undo or redo .
+
+# 21 Feb 22
+- Working on set globally set undo or redo.
+
+# 22 Feb 22
+- Completed Task to set globally undo or redo.
